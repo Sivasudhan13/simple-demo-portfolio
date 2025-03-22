@@ -1,0 +1,185 @@
+body {
+  background-color: #f8f2fc;
+}
+ul {
+  width: 500px;
+  background-color: #9545ed;
+  height: 30px;
+  padding: 10px;
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  color: #f8f2fc;
+  border-radius: 50px;
+  padding-top: 20px;
+}
+.menus {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+.intro-me {
+  display: flex;
+  margin-top: 150px;
+
+  justify-content: center;
+}
+.box-container {
+  background-color: #9545ed;
+  height: 200px;
+  width: 250px;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  margin-left: 50px;
+}
+.hero-img {
+  height: 400px;
+  margin-top: -200px;
+  margin-left: 20px;
+}
+.intro-name {
+  color: #33266f;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.intro-domain {
+  color: #9545ed;
+  text-align: center;
+  margin-bottom: 5px;
+}
+.home-about {
+  color: #362866;
+}
+.main-content {
+  width: 600px;
+}
+.btn-home {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 30px;
+}
+button {
+  width: 100px;
+  height: 30px;
+  border-radius: 30px;
+}
+.btn-home-touch {
+  background-color: #33266f;
+  color: #f8f2fc;
+}
+.btn-home-projects {
+  border-color: #33266f;
+  color: #33266f;
+}
+.part-contact-me {
+  color: #9545ed;
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+.sub-links {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 10px;
+}
+.content-right {
+  margin-top: 30px;
+}
+.recent-projects {
+  background-color: #9545ed;
+  height: 1100px;
+}
+.head-projects {
+  text-align: center;
+  color: #f8f2fc;
+  padding-top: 80px;
+}
+.home {
+  margin-bottom: 120px;
+}
+.box {
+  width: 500px;
+  height: 400px;
+  border-radius: 30px;
+  background-color: #a747f0;
+}
+.project-container {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin-top: 30px;
+}
+.move {
+  border-radius: 50%;
+  background-color: #bab4be;
+  width: 40px;
+  height: 40px;
+  margin-top: 25px;
+  margin-right: 30px;
+  display: flex;
+  justify-content: center;
+}
+.tittle-project {
+  display: flex;
+  justify-content: space-between;
+}
+.project-img {
+  width: 450px;
+}
+.img-content {
+  display: flex;
+  justify-content: center;
+}
+.btn-project-inview {
+  width: 150px;
+  height: 40px;
+  background-color: #33266f;
+  color: #f8f2fc;
+}
+.btn-projrct-view {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+.client-box {
+  background-color: #9545ed;
+  padding: 30px;
+  text-align: center;
+  border-radius: 30px;
+  width: 600px;
+}
+.client-img {
+  background-color: #a747f0;
+  height: 80px;
+
+  margin-bottom: -30px;
+  border-radius: 3px;
+}
+.client-imgs {
+  display: flex;
+  justify-content: center;
+}
+.client-feedbacks {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+.move-point {
+  width: 5px;
+  height: 5px;
+  background-color: #f8f2fc;
+  border-radius: 50%;
+}
+.client-points {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+.img-knows {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
