@@ -248,4 +248,68 @@ button {
 a {
   text-decoration: none;
   color: #f8f2fc;
+  transition: font-size 2s;
+}
+a:hover {
+  font-size: 18px;
+}
+.about-tittle {
+  color: #362866;
+  text-align: center;
+  margin-top: 80px;
+}
+.about-content-box {
+  width: 800px;
+  background-color: #a747f0;
+  height: 430px;
+  margin-top: 80px;
+
+  border-radius: 20px;
+}
+.about-me-content {
+  color: #f8f2fc;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+
+  font-size: small;
+}
+.about-img {
+  width: 200px;
+  border: 2px solid #f8f2fc;
+  border-radius: 10px;
+}
+.about-me-content {
+  display: flex;
+  justify-content: center;
+}
+.about-container-box {
+  background-color: #362866;
+  width: 500px;
+}
+.about-expreition-box {
+  width: 500px;
+  height: 100px;
+  border-radius: 10px;
+  background-color: #362866;
+  font-size: small;
+}
+.about-count {
+  display: flex;
+  justify-content: space-around;
+  color: #f8f2fc;
+}
+.about-count-name {
+  display: flex;
+  color: #bab4be;
+  justify-content: space-around;
+  margin-top: -20px;
+}
+.about-container-box2 {
+  display: flex;
+  justify-content: center;
+}
+.about-container-box1 {
+  display: flex;
+  justify-content: center;
 }
